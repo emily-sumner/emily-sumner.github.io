@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lang on Emily Sumner (UNDER CONSTRUCTION)</title>
+    <link>/emily-sumner/tags/lang/</link>
+    <description>Recent content in Lang on Emily Sumner (UNDER CONSTRUCTION)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 27 Apr 2019 00:00:00 -0700</lastBuildDate>
+    
+	<atom:link href="/emily-sumner/tags/lang/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Recency biases in young children</title>
+      <link>/emily-sumner/project/internal-project/</link>
+      <pubDate>Sat, 27 Apr 2019 00:00:00 -0700</pubDate>
+      
+      <guid>/emily-sumner/project/internal-project/</guid>
+      <description>In this set of studies, we show that toddlers and young children demonstrate a robust recency bias when answering questions verbally.</description>
+    </item>
+    
+  </channel>
+</rss>

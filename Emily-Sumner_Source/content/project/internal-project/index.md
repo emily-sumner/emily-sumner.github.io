@@ -10,15 +10,16 @@ links:
   name: Follow
   url: https://twitter.com/emilyssumner
 slides: example-slides
-summary: In this set of studies, I look at how children act on bandit tasks. 
+summary: In this set of studies, we show that toddlers and young children demonstrate a robust recency bias when answering questions verbally.  
 tags:
 - CogDev
 - JDM
-title: Exploration during childhood
+- Lang
+title: Recency biases in young children
 url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
 ---
-Imagine that it’s your second day at a new job. You are standing at the coffee cart outside your office building, considering the unfamiliar menu. Yesterday you had a cappuccino and enjoyed it; today you must decide whether to get the cappuccino again like yesterday, or try the matcha green tea latte, which you might not like. This is known as an explore/exploit problem, because you must choose between exploiting a familiar option (the cappuccino) or exploiting a new one (the matcha latte). We used two different explore-exploit paradigms with children (see photos below). We found that children didn’t play in a way that maximized payout and explored more than would be optimal. However, children correctly identified the machines with the highest level of payout and overwhelmingly preferred this bandit. We found that adults played in a way that maximized payout when they were told to maximize payout or were given no explicit instructions. However, when adults were asked to maximize learning, they explore more -- like children.
+One of the greatest challenges of developmental psychology is figuring out what children are thinking. This is particularly difficult in early childhood, for children who are prelinguistic or are just beginning to speak their first words. In this stage, children’s responses are commonly measured by presenting young children with a limited choice between one of a small number of options (e.g., “Do you want X or Y?”). A tendency to choose one response in these tasks may be taken as an indication of a child’s preference or understanding. Adults’ responses are known to exhibit order biases when they are asked questions. The current set of experiments looks into the following question: do children demonstrate response biases? Together, we show that (1) toddlers demonstrate a robust verbal recency bias when asked “or” questions in a lab-based task and a naturalistic corpus of caretaker-child speech interactions, (2) the recency bias weakens with age, and (3) the recency bias strengthens as the syllable-length of the choices gets longer. Taken together, these results indicate that children show a different type of response bias than adults, recency instead of primacy. Further, the results may suggest that this bias stems from increased constraints on children’s working memory. 
 

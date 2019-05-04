@@ -19,7 +19,12 @@
   </url>
   
   <url>
-    <loc>/emily-sumner/project/kid-bandit/</loc>
+    <loc>/emily-sumner/project/recency/</loc>
+    <lastmod>2019-04-27T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/emily-sumner/project/tablet/</loc>
     <lastmod>2019-04-27T00:00:00-07:00</lastmod>
   </url>
   
@@ -30,12 +35,13 @@
   </url>
   
   <url>
-    <loc>/emily-sumner/project/internal-project/</loc>
+    <loc>/emily-sumner/tags/jdm/</loc>
     <lastmod>2019-04-27T00:00:00-07:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>/emily-sumner/tags/jdm/</loc>
+    <loc>/emily-sumner/tags/lang/</loc>
     <lastmod>2019-04-27T00:00:00-07:00</lastmod>
     <priority>0</priority>
   </url>
@@ -44,6 +50,11 @@
     <loc>/emily-sumner/project/</loc>
     <lastmod>2019-04-27T00:00:00-07:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/emily-sumner/project/internal-project/</loc>
+    <lastmod>2019-04-27T00:00:00-07:00</lastmod>
   </url>
   
   <url>
