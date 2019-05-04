@@ -11,10 +11,10 @@
   url = "#about"
   weight = 10 #order in which they show up
 
-#[[main]]
-#  name = "Projects"
-#  url = "/tutorial/"
-#  weight = 20
+[[main]]
+  name = "Projects"
+  url = "/project/"
+  weight = 20
 
 [[main]]
   name = "Publications"
