@@ -19,11 +19,6 @@
   </url>
   
   <url>
-    <loc>/emily-sumner/project/internal-project/</loc>
-    <lastmod>2019-04-27T00:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/emily-sumner/project/kid-bandit/</loc>
     <lastmod>2019-04-27T00:00:00-07:00</lastmod>
   </url>
@@ -32,6 +27,11 @@
     <loc>/emily-sumner/tags/cogdev/</loc>
     <lastmod>2019-04-27T00:00:00-07:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/emily-sumner/project/internal-project/</loc>
+    <lastmod>2019-04-27T00:00:00-07:00</lastmod>
   </url>
   
   <url>

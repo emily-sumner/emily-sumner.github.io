@@ -26,12 +26,20 @@ subtitle = ""
     tag = "*"
   
   [[content.filter_button]]
-    name = "Cognitive development"
+    name = "CogDev"
     tag = "CogDev"
   
   [[content.filter_button]]
-    name = "Decision making"
+    name = "JDM"
     tag = "JDM"
+    
+  [[content.filter_button]]
+    name = "Language"
+    tag = "Lang"
+    
+  [[content.filter_button]]
+    name = "VR"
+    tag = "VR"
   
   [[content.filter_button]]
     name = "Other"
