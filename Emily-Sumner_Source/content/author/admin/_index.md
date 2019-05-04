@@ -31,7 +31,7 @@ social:
   link: '#contact'
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/EmilySSumner/
+  link: https://www.linkedin.com/in/EmilySarahSumner/
 - icon: flask
   icon_pack: fa
   link: https://osf.io/vhzxm
