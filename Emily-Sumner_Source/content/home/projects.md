@@ -38,8 +38,8 @@ subtitle = ""
     tag = "Lang"
     
   [[content.filter_button]]
-    name = "VR"
-    tag = "VR"
+    name = "Games"
+    tag = "Games"
   
   [[content.filter_button]]
     name = "Other"

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Games on Emily Sumner (UNDER CONSTRUCTION)</title>
+    <link>/emily-sumner/tags/games/</link>
+    <description>Recent content in Games on Emily Sumner (UNDER CONSTRUCTION)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 27 Apr 2019 00:00:00 -0700</lastBuildDate>
+    
+	<atom:link href="/emily-sumner/tags/games/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tablet measures of executive function</title>
+      <link>/emily-sumner/project/tablet/</link>
+      <pubDate>Sat, 27 Apr 2019 00:00:00 -0700</pubDate>
+      
+      <guid>/emily-sumner/project/tablet/</guid>
+      <description>We built child-friendly measures of executive function and risk propensity.</description>
+    </item>
+    
+    <item>
+      <title>Virtual reality measures of risk propensity</title>
+      <link>/emily-sumner/project/vr/</link>
+      <pubDate>Sat, 27 Apr 2019 00:00:00 -0700</pubDate>
+      
+      <guid>/emily-sumner/project/vr/</guid>
+      <description>We built a virtual reality measure risk propensity.</description>
+    </item>
+    
+  </channel>
+</rss>
