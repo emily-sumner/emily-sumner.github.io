@@ -10,11 +10,11 @@ links:
   name: Follow
   url: https://twitter.com/emilyssumner
 slides: example-slides
-summary: An example of using the in-built project page.
+summary: We show that children are more explorative than adults on bandit tasks.
 tags:
 - CogDev
 - JDM
-title: Bandit Tasks and Children
+title: Exploration during childhood
 url_code: ""
 url_pdf: ""
 url_slides: ""

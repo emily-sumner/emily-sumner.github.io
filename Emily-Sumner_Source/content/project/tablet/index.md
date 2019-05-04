@@ -10,7 +10,7 @@ links:
   name: Follow
   url: https://twitter.com/emilyssumner
 slides: example-slides
-summary: An example of using the in-built project page.
+summary: We built child-friendly measures of executive function and risk propensity.
 tags:
 - CogDev
 - JDM
@@ -18,7 +18,7 @@ title: Tablet measures of executive function
 url_code: ""
 url_pdf: ""
 url_slides: ""
-url_video: ""
+url_video: "https://www.youtube.com/watch?v=Loyn1NLgifk"
 ---
-Imagine that it’s your second day at a new job. You are standing at the coffee cart outside your office building, considering the unfamiliar menu. Yesterday you had a cappuccino and enjoyed it; today you must decide whether to get the cappuccino again like yesterday, or try the matcha green tea latte, which you might not like. This is known as an explore/exploit problem, because you must choose between exploiting a familiar option (the cappuccino) or exploiting a new one (the matcha latte). We used two different explore-exploit paradigms with children (see photos below). We found that children didn’t play in a way that maximized payout and explored more than would be optimal. However, children correctly identified the machines with the highest level of payout and overwhelmingly preferred this bandit. We found that adults played in a way that maximized payout when they were told to maximize payout or were given no explicit instructions. However, when adults were asked to maximize learning, they explore more -- like children.
+Life is full of decisions about when to play it safe and when to take risks. These decisions can be as mundane as deciding whether to try a new cereal or as paramount as choosing between alternative treatments for a life-threatening disease. In adults, risk-taking behavior is associated with many undesirable behaviors such as substance abuse, gambling etc. However, little is known about the development of an individual’s propensity for risk. Specifically, there are no standardized laboratory procedures that assess young children’s risk-taking preferences. In this line of work, we created and validated a measure of risk propensity. The Child Risk Utility Measure (CRUM) is a touchscreen application which enables us to assess individual differences in young children’s risk propensity. The CRUM respects the cognitive limitations of three- to six-year-old children. In this task, children try to help Cookie Monster take cookies from a cookie jar without Oscar waking up. However, the chances of Oscar waking up increase along with the number of cookies on the plate. We used this, along with other child-friendly measures of executive function to investigate the relationship of risk propensity, working memory, and inhibitory control.
 

@@ -10,7 +10,7 @@ links:
   name: Follow
   url: https://twitter.com/emilyssumner
 slides: example-slides
-summary: In this set of studies, we show that toddlers and young children demonstrate a robust recency bias when answering questions verbally.  
+summary: We show that toddlers and young children demonstrate a recency bias when answering questions verbally.  
 tags:
 - CogDev
 - JDM
