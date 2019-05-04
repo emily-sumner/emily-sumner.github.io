@@ -47,7 +47,7 @@ user_groups:
 - Visitors
 ---
 
-I am interested in how children explore the world and make decisions. {{% staticref "files/cv.pdf" "newtab" %}} Click here to download my CV.{{% /staticref %}}
+I am interested in how children explore the world and make decisions. 
 
 
 
