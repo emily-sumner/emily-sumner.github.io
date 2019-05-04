@@ -19,6 +19,40 @@
   </url>
   
   <url>
+    <loc>/emily-sumner/project/internal-project/</loc>
+    <lastmod>2019-04-27T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/emily-sumner/project/kid-bandit/</loc>
+    <lastmod>2019-04-27T00:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/emily-sumner/tags/cogdev/</loc>
+    <lastmod>2019-04-27T00:00:00-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/emily-sumner/tags/jdm/</loc>
+    <lastmod>2019-04-27T00:00:00-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/emily-sumner/project/</loc>
+    <lastmod>2019-04-27T00:00:00-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/emily-sumner/tags/</loc>
+    <lastmod>2019-04-27T00:00:00-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/emily-sumner/publication_types/3/</loc>
     <lastmod>2019-04-07T00:00:00-07:00</lastmod>
     <priority>0</priority>
@@ -49,12 +83,6 @@
   <url>
     <loc>/emily-sumner/tags/source-themes/</loc>
     <lastmod>2019-04-07T00:00:00-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/emily-sumner/tags/</loc>
-    <lastmod>2019-04-17T00:00:00-07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -111,12 +139,6 @@
   </url>
   
   <url>
-    <loc>/emily-sumner/tags/cogdev/</loc>
-    <lastmod>2016-04-27T00:00:00-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/emily-sumner/tags/demo/</loc>
     <lastmod>2016-04-27T00:00:00-07:00</lastmod>
     <priority>0</priority>
@@ -125,17 +147,6 @@
   <url>
     <loc>/emily-sumner/project/external-project/</loc>
     <lastmod>2016-04-27T00:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/emily-sumner/project/internal-project/</loc>
-    <lastmod>2016-04-27T00:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/emily-sumner/project/</loc>
-    <lastmod>2016-04-27T00:00:00-07:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
