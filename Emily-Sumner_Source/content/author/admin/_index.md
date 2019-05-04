@@ -47,7 +47,7 @@ user_groups:
 - Visitors
 ---
 
-Emily is finally making a website.
+I am interested in how children explore the world and make decisions. 
 
 
 
