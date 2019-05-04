@@ -23,7 +23,7 @@ interests:
 name: Emily Sumner
 organizations:
 - name: University of California, Irvine
-  url: ""
+  url: "https://www.cogsci.uci.edu"
 role: Ph.D. Candidate
 social:
 - icon: envelope
@@ -47,7 +47,6 @@ user_groups:
 - Visitors
 ---
 
-I am interested in how children explore the world and make decisions. 
-
+I study how children explore the world and make decisions. 
 
 
