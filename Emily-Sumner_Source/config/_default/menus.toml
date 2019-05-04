@@ -16,10 +16,10 @@
 #  url = "/tutorial/"
 #  weight = 20
 
-#[[main]]
-#  name = "Publications"
-#  url = "/tutorial/"
-#  weight = 30
+[[main]]
+  name = "Publications"
+  url = "/publication/"
+  weight = 30
 
 #[[main]]
 #  name = "R"
