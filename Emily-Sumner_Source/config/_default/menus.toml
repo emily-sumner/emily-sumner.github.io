@@ -9,15 +9,15 @@
 [[main]]
   name = "Home"
   url = "#about"
-  weight = 10
+  weight = 10 #order in which they show up
 
 [[main]]
-  name = "Data Science"
+  name = "Projects"
   url = "/tutorial/"
   weight = 20
 
 [[main]]
-  name = "Python"
+  name = "Publications"
   url = "/tutorial/"
   weight = 30
 
@@ -26,10 +26,10 @@
   url = "/tutorial2/"
   weight = 40
   
-[[main]]
-  name = "Youtube Videos"
-  url = "/tutorial2/"
-  weight = 50
+#[[main]]
+#  name = "Youtube Videos"
+#  url = "/tutorial2/"
+#  weight = 50
 
 [[main]]
   name = "CV"

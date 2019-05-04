@@ -4,24 +4,23 @@ authors:
 bio: 
 education:
   courses:
-  - course: Ph.D. in Cognitive Science
+  - course: Ph.D. in Cognitive Sciences
     institution: University of California, Irvine
-    year: 2019
-  - course: M.S. in Statistics
+    year: 2020
+  - course: M.A. in Psychology
     institution: University of California, Irvine
-    year: 2016
-  - course: B.S. in Psychology
-    institution: University of California, Davis
-    year: 2014
-email: "mstrelio@uci.edu"
+    year: 2018
+  - course: B.A. in Brain and Cognitive Sciences
+    institution: University of Rochester
+    year: 2015
+email: "sumnere@uci.edu"
 
 interests:
-- Automating Web Interactions
-- Dynamic Modeling
-- Applied Decision Theory
-- Making a Website
+- Cognitive development
+- Decision making
+- Exploration
 
-name: Mac Strelioff
+name: Emily Sumner
 organizations:
 - name: University of California, Irvine
   url: ""
@@ -32,23 +31,23 @@ social:
   link: '#contact'
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/mac-strelioff-64318793/
+  link: https://www.linkedin.com/in/EmilySSumner/
 - icon: flask
   icon_pack: fa
-  link: https://osf.io/4a75z
+  link: https://osf.io/vhzxm
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/macstrelioff
-- icon: github
-  icon_pack: fab
-  link: https://github.com/macstrelioff
+  link: https://twitter.com/EmilySSumner
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/macstrelioff
 superuser: true
 user_groups:
 - Researchers
 - Visitors
 ---
 
-Mac is finally making a website.
+Emily is finally making a website.
 
 
 
