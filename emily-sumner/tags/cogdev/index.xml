@@ -13,29 +13,29 @@
     
     <item>
       <title>Bandit Tasks and Children</title>
-      <link>/emily-sumner/project/recency/</link>
+      <link>/emily-sumner/project/bandit/</link>
       <pubDate>Sat, 27 Apr 2019 00:00:00 -0700</pubDate>
       
-      <guid>/emily-sumner/project/recency/</guid>
-      <description>An example of using the in-built project page.</description>
-    </item>
-    
-    <item>
-      <title>Bandit Tasks and Children</title>
-      <link>/emily-sumner/project/tablet/</link>
-      <pubDate>Sat, 27 Apr 2019 00:00:00 -0700</pubDate>
-      
-      <guid>/emily-sumner/project/tablet/</guid>
+      <guid>/emily-sumner/project/bandit/</guid>
       <description>An example of using the in-built project page.</description>
     </item>
     
     <item>
       <title>Recency biases in young children</title>
-      <link>/emily-sumner/project/internal-project/</link>
+      <link>/emily-sumner/project/recency/</link>
       <pubDate>Sat, 27 Apr 2019 00:00:00 -0700</pubDate>
       
-      <guid>/emily-sumner/project/internal-project/</guid>
+      <guid>/emily-sumner/project/recency/</guid>
       <description>In this set of studies, we show that toddlers and young children demonstrate a robust recency bias when answering questions verbally.</description>
+    </item>
+    
+    <item>
+      <title>Tablet measures of executive function</title>
+      <link>/emily-sumner/project/tablet/</link>
+      <pubDate>Sat, 27 Apr 2019 00:00:00 -0700</pubDate>
+      
+      <guid>/emily-sumner/project/tablet/</guid>
+      <description>An example of using the in-built project page.</description>
     </item>
     
   </channel>

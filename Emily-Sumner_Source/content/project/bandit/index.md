@@ -14,7 +14,7 @@ summary: An example of using the in-built project page.
 tags:
 - CogDev
 - JDM
-title: Tablet measures of executive function
+title: Bandit Tasks and Children
 url_code: ""
 url_pdf: ""
 url_slides: ""
