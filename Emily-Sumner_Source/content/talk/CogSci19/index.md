@@ -18,7 +18,7 @@ publishDate: "2019-07-01T00:00:00-08:00"
 #slides: example
 summary: It's not the treasure, it's the hunt. Children are more explorative on an explore-exploit task than adults
 tags: []
-title: Poster at the CogSci2019
+title: Poster at CogSci2019
 url_code: ""
 url_pdf: ""
 url_slides: ""
