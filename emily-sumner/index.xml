@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Emily Sumner (UNDER CONSTRUCTION)</title>
+    <title>Emily Sumner</title>
     <link>/emily-sumner/</link>
-    <description>Recent content on Emily Sumner (UNDER CONSTRUCTION)</description>
+    <description>Recent content on Emily Sumner</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 Jun 2019 15:45:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Jun 2019 12:05:00 +0000</lastBuildDate>
     
 	    <atom:link href="/emily-sumner/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Poster at the CogSci2019</title>
+      <link>/emily-sumner/talk/cogsci19/</link>
+      <pubDate>Tue, 25 Jun 2019 12:05:00 +0000</pubDate>
+      
+      <guid>/emily-sumner/talk/cogsci19/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Talk at the Society of Philophy and Psychology</title>
