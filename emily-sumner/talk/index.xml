@@ -6,18 +6,27 @@
     <description>Recent content in Recent &amp; Upcoming Talks on Emily Sumner (UNDER CONSTRUCTION)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Jun 2030 13:00:00 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 12 Jun 2019 15:45:00 +0000</lastBuildDate>
     
 	<atom:link href="/emily-sumner/talk/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Example Talk</title>
-      <link>/emily-sumner/talk/example/</link>
-      <pubDate>Sat, 01 Jun 2030 13:00:00 -0700</pubDate>
+      <title>Talk at the Society of Philophy and Psychology</title>
+      <link>/emily-sumner/talk/spp/</link>
+      <pubDate>Wed, 12 Jun 2019 15:45:00 +0000</pubDate>
       
-      <guid>/emily-sumner/talk/example/</guid>
-      <description>An example talk using Academic&amp;rsquo;s Markdown slides feature.</description>
+      <guid>/emily-sumner/talk/spp/</guid>
+      <description>It&amp;rsquo;s not the treasure, it&amp;rsquo;s the hunt. Children are more explorative on an explore-exploit task than adults</description>
+    </item>
+    
+    <item>
+      <title>UCI Undergraduate Research Symposium 2019</title>
+      <link>/emily-sumner/talk/urop19/</link>
+      <pubDate>Sat, 18 May 2019 12:00:00 +0000</pubDate>
+      
+      <guid>/emily-sumner/talk/urop19/</guid>
+      <description>Eight of my undergraduate research assistants will be presenting our research at the UROP symposium.</description>
     </item>
     
   </channel>
