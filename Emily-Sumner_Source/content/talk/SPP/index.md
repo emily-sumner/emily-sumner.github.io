@@ -4,7 +4,7 @@ all_day: false
 authors: []
 date: "2019-06-12T15:45:00-00:00"
 date_end: "2019-12-01T16:15:00-00:00"
-event: Society of Philophy and Psychology
+event: Society of Philosophy and Psychology
 event_url: http://www.socphilpsych.org/meetings.html
 featured: false
 #image:
@@ -18,7 +18,7 @@ publishDate: "2017-01-01T00:00:00-08:00"
 #slides: example
 summary: It's not the treasure, it's the hunt. Children are more explorative on an explore-exploit task than adults
 tags: []
-title: Talk at the Society of Philophy and Psychology
+title: Talk at the Society of Philosophy and Psychology
 url_code: ""
 url_pdf: ""
 url_slides: ""
