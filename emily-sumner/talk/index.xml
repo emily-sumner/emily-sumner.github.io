@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming Talks on Emily Sumner</title>
+    <title>News and Upcoming Talks on Emily Sumner</title>
     <link>/emily-sumner/talk/</link>
-    <description>Recent content in Recent &amp; Upcoming Talks on Emily Sumner</description>
+    <description>Recent content in News and Upcoming Talks on Emily Sumner</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 25 Jul 2019 12:05:00 +0000</lastBuildDate>
@@ -41,7 +41,7 @@
     <item>
       <title>70 kids in 2 weeks!</title>
       <link>/emily-sumner/talk/70kids/</link>
-      <pubDate>Wed, 03 Apr 2019 12:00:00 +0000</pubDate>
+      <pubDate>Wed, 17 Apr 2019 12:00:00 +0000</pubDate>
       
       <guid>/emily-sumner/talk/70kids/</guid>
       <description>My undergraduate research assistants and I collected data from 70 kids in two weeks, new lab record!</description>

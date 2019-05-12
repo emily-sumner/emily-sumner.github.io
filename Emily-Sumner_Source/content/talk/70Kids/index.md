@@ -2,8 +2,8 @@
 abstract:  My team undergraduate research assistants and I collected data from 70 kids in two weeks. I feel very lucky to have such an amazing team of students working with me. 
 all_day: false
 authors: []
-date: "2019-04-03T12:00:00-00:00"
-date_end: "2019-04-17T15:00:00-00:00"
+date: "2019-04-17T12:00:00-00:00"
+#date_end: "2019-04-17T15:00:00-00:00"
 event:
 event_url:     
 featured: false

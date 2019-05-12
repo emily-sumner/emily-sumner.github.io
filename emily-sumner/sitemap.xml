@@ -9,12 +9,12 @@
   </url>
   
   <url>
-    <loc>/emily-sumner/talk/cogsci19/</loc>
+    <loc>/emily-sumner/talk/</loc>
     <lastmod>2019-07-25T12:05:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/emily-sumner/talk/</loc>
+    <loc>/emily-sumner/talk/cogsci19/</loc>
     <lastmod>2019-07-25T12:05:00+00:00</lastmod>
   </url>
   
@@ -90,6 +90,11 @@
   </url>
   
   <url>
+    <loc>/emily-sumner/talk/70kids/</loc>
+    <lastmod>2019-04-17T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/emily-sumner/publication_types/3/</loc>
     <lastmod>2019-04-07T00:00:00-07:00</lastmod>
     <priority>0</priority>
@@ -127,11 +132,6 @@
     <loc>/emily-sumner/authors/admin/</loc>
     <lastmod>2019-04-17T00:00:00-07:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/emily-sumner/talk/70kids/</loc>
-    <lastmod>2019-04-03T12:00:00+00:00</lastmod>
   </url>
   
   <url>
