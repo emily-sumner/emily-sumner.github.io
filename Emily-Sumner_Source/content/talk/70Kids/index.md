@@ -25,4 +25,4 @@ url_slides: ""
 url_video: ""
 ---
 My team undergraduate research assistants and I collected data from 70 kids in two weeks. I feel very lucky to have such an amazing team of students working with me. We enjoyed cake to celebrate the new lab record. 
-{{< figure src="sarnecka_lab.jpg" title="My team of students" >}}
+{{< figure src="sarnecka_lab.jpg" title="My team of students. Zot zot zot!" >}}
