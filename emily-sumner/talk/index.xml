@@ -6,10 +6,19 @@
     <description>Recent content in News and Upcoming Talks on Emily Sumner</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Jul 2019 12:05:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Oct 2019 12:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/emily-sumner/talk/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Reproducible Developmental Science, Why and How</title>
+      <link>/emily-sumner/talk/bayes_cds/</link>
+      <pubDate>Thu, 17 Oct 2019 12:00:00 +0000</pubDate>
+      
+      <guid>/emily-sumner/talk/bayes_cds/</guid>
+      <description>I will be leading a workshop on Bayesian statistics for developmental psychologists at this CogDev Preconference</description>
+    </item>
     
     <item>
       <title>Poster at CogSci2019</title>
