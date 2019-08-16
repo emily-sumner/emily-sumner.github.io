@@ -6,10 +6,19 @@
     <description>Recent content in News and Upcoming Talks on Emily Sumner</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Oct 2019 12:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Oct 2019 12:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/emily-sumner/talk/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The Exploration Advantage- Children&#39;s instinct to explore allows them to detect information that adults miss only when the environment is changing</title>
+      <link>/emily-sumner/talk/cds19/</link>
+      <pubDate>Fri, 18 Oct 2019 12:00:00 +0000</pubDate>
+      
+      <guid>/emily-sumner/talk/cds19/</guid>
+      <description>I will be presenting a poster at the 2019 Meeting of the Cognitive Development Society</description>
+    </item>
     
     <item>
       <title>Reproducible Developmental Science, Why and How</title>
@@ -18,6 +27,15 @@
       
       <guid>/emily-sumner/talk/bayes_cds/</guid>
       <description>I will be leading a workshop on Bayesian statistics for developmental psychologists at this CogDev Preconference</description>
+    </item>
+    
+    <item>
+      <title>Talk at UCSD Developmental Psychology Brown Bag</title>
+      <link>/emily-sumner/talk/ucsd_brownbag/</link>
+      <pubDate>Mon, 07 Oct 2019 12:00:00 +0000</pubDate>
+      
+      <guid>/emily-sumner/talk/ucsd_brownbag/</guid>
+      <description>I will be giving a talk on exploration, decision making, and play as part of UCSD&amp;rsquo;s developmental psychology brownbag series.</description>
     </item>
     
     <item>
