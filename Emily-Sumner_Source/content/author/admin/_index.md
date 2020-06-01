@@ -19,12 +19,14 @@ interests:
 - Cognitive development
 - Decision making
 - Exploration
+- Curiosity
+- Science communication
 
-name: Emily Sumner
+name: Emily Sarah Sumner
 organizations:
-- name: University of California, Irvine
-  url: "https://www.cogsci.uci.edu"
-role: Ph.D. Candidate
+- name: University of California, Berkeley
+  url: "https://psychology.berkeley.edu/"
+role: Postdoctoral Researcher
 social:
 - icon: envelope
   icon_pack: fas
